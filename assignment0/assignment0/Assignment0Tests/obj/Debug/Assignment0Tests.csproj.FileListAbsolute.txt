@@ -1,0 +1,12 @@
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\bin\Debug\Assignment0Tests.dll
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\bin\Debug\Assignment0Tests.pdb
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\bin\Debug\assignment0.exe
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\bin\Debug\nunit.framework.dll
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\bin\Debug\assignment0.pdb
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\bin\Debug\assignment0.exe.config
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\bin\Debug\nunit.framework.xml
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\obj\Debug\Assignment0Tests.csprojAssemblyReference.cache
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\obj\Debug\Assignment0Tests.csproj.CoreCompileInputs.cache
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\obj\Debug\Assignment0Tests.csproj.CopyComplete
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\obj\Debug\Assignment0Tests.dll
+C:\Users\nichesoft29\Documents\assignment0\assignment0\Assignment0Tests\obj\Debug\Assignment0Tests.pdb

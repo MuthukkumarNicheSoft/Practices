@@ -1,0 +1,7 @@
+C:\Users\nichesoft29\Documents\assignment0\assignment0\assignment0\bin\Debug\assignment0.exe.config
+C:\Users\nichesoft29\Documents\assignment0\assignment0\assignment0\bin\Debug\assignment0.exe
+C:\Users\nichesoft29\Documents\assignment0\assignment0\assignment0\bin\Debug\assignment0.pdb
+C:\Users\nichesoft29\Documents\assignment0\assignment0\assignment0\obj\x86\Debug\assignment0.csprojAssemblyReference.cache
+C:\Users\nichesoft29\Documents\assignment0\assignment0\assignment0\obj\x86\Debug\assignment0.csproj.CoreCompileInputs.cache
+C:\Users\nichesoft29\Documents\assignment0\assignment0\assignment0\obj\x86\Debug\assignment0.exe
+C:\Users\nichesoft29\Documents\assignment0\assignment0\assignment0\obj\x86\Debug\assignment0.pdb
